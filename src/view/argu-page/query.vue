@@ -10,7 +10,7 @@
 <script>
 import { mapMutations } from 'vuex'
 export default {
-  name: 'query',
+  name: "query",
   methods: {
     ...mapMutations([
       'closeTag'
